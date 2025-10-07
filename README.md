@@ -62,5 +62,7 @@ Press `Ctrl+C` to stop monitoring.
 - The tool only monitors outgoing connections
 
 ## Todo
-[] Systemd file
-[] Installation script
+
+[ ] Systemd file
+
+[ ] Installation script
