@@ -1,7 +1,9 @@
 # Bepa - Network Monitor
 
 A simple network monitoring tool that watches your computer's connections & alerts you when your computer connects to specific IP addresses or networks.
+
 It's useful to detect malicious connections to your private network.
+
 Imagine one of your programs has malware that starts scanning your private network - with this simple script you can detect which process is making those connections.
 
 ## What it does
