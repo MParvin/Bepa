@@ -1,4 +1,4 @@
-# Bepa - Network Monitor
+# Beppa - Network Monitor
 
 A simple network monitoring tool that watches your computer's connections & alerts you when your computer connects to specific IP addresses or networks.
 
